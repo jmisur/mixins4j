@@ -1,0 +1,20 @@
+/home/duro/dev/eclipse/configuration/org.eclipse.osgi/bundles/859/1/.cp/lib/scala-library.jar:/home/duro/dev/eclipse/configuration/org.eclipse.osgi/bundles/859/1/.cp/lib/scala-dbc.jar:/home/duro/dev/eclipse/configuration/org.eclipse.osgi/bundles/859/1/.cp/lib/scala-swing.jar:/usr/lib/jvm/java-6-sun-1.6.0.22/jre/lib/resources.jar:/usr/lib/jvm/java-6-sun-1.6.0.22/jre/lib/rt.jar:/usr/lib/jvm/java-6-sun-1.6.0.22/jre/lib/jsse.jar:/usr/lib/jvm/java-6-sun-1.6.0.22/jre/lib/jce.jar:/usr/lib/jvm/java-6-sun-1.6.0.22/jre/lib/charsets.jar:/usr/lib/jvm/java-6-sun-1.6.0.22/jre/lib/ext/sunjce_provider.jar:/usr/lib/jvm/java-6-sun-1.6.0.22/jre/lib/ext/localedata.jar:/usr/lib/jvm/java-6-sun-1.6.0.22/jre/lib/ext/dnsns.jar:/usr/lib/jvm/java-6-sun-1.6.0.22/jre/lib/ext/sunpkcs11.jar:/home/duro/dev/eclipse/plugins/org.scala-ide.scala.library_2.8.1.final-p0002.jar:/home/duro/workspace/mixins4j/bin
+-------
+/home/duro/workspace/mixins4j/src/org/mixins4j/writer/AbstractClassWriter.java -> /home/duro/workspace/mixins4j/src/org/mixins4j/writer/ClassWriter.java
+/home/duro/workspace/mixins4j/src/org/mixins4j/writer/AbstractClassWriter.java -> /home/duro/workspace/mixins4j/src/org/mixins4j/util/PrintWriter.java
+/home/duro/workspace/mixins4j/src/org/mixins4j/writer/AbstractClassWriter.java -> /home/duro/workspace/mixins4j/src/org/mixins4j/writer/ClassWriterOptions.java
+/home/duro/workspace/mixins4j/src/org/mixins4j/processor/ScalaProcessor.scala -> /home/duro/workspace/mixins4j/src/org/mixins4j/Mixin.java
+/home/duro/workspace/mixins4j/src/org/mixins4j/processor/ScalaProcessor.scala -> /home/duro/workspace/mixins4j/src/org/mixins4j/writer/MixinClassWriterOptions.java
+/home/duro/workspace/mixins4j/src/org/mixins4j/processor/ScalaProcessor.scala -> /home/duro/workspace/mixins4j/src/org/mixins4j/processor/ScalaProcessor.scala
+/home/duro/workspace/mixins4j/src/org/mixins4j/writer/MixinClassWriterOptions.java -> /home/duro/workspace/mixins4j/src/org/mixins4j/writer/ClassWriterOptions.java
+-------
+/home/duro/workspace/mixins4j/src/org/mixins4j/processor/ScalaProcessor.scala -> /home/duro/workspace/mixins4j/bin/org/mixins4j/processor/LL$$anonfun$main$2.class
+/home/duro/workspace/mixins4j/src/org/mixins4j/processor/ScalaProcessor.scala -> /home/duro/workspace/mixins4j/bin/org/mixins4j/processor/ScalaProcessor$$anonfun$processAnnotationParameters$1$$anonfun$apply$1.class
+/home/duro/workspace/mixins4j/src/org/mixins4j/processor/ScalaProcessor.scala -> /home/duro/workspace/mixins4j/bin/org/mixins4j/processor/LL$$anonfun$what$1.class
+/home/duro/workspace/mixins4j/src/org/mixins4j/processor/ScalaProcessor.scala -> /home/duro/workspace/mixins4j/bin/org/mixins4j/processor/LL$$anonfun$using$1.class
+/home/duro/workspace/mixins4j/src/org/mixins4j/processor/ScalaProcessor.scala -> /home/duro/workspace/mixins4j/bin/org/mixins4j/processor/LL.class
+/home/duro/workspace/mixins4j/src/org/mixins4j/processor/ScalaProcessor.scala -> /home/duro/workspace/mixins4j/bin/org/mixins4j/processor/ScalaProcessor$$anonfun$1.class
+/home/duro/workspace/mixins4j/src/org/mixins4j/processor/ScalaProcessor.scala -> /home/duro/workspace/mixins4j/bin/org/mixins4j/processor/LL$$anonfun$main$1.class
+/home/duro/workspace/mixins4j/src/org/mixins4j/processor/ScalaProcessor.scala -> /home/duro/workspace/mixins4j/bin/org/mixins4j/processor/LL$.class
+/home/duro/workspace/mixins4j/src/org/mixins4j/processor/ScalaProcessor.scala -> /home/duro/workspace/mixins4j/bin/org/mixins4j/processor/ScalaProcessor.class
+/home/duro/workspace/mixins4j/src/org/mixins4j/processor/ScalaProcessor.scala -> /home/duro/workspace/mixins4j/bin/org/mixins4j/processor/ScalaProcessor$$anonfun$processAnnotationParameters$1.class

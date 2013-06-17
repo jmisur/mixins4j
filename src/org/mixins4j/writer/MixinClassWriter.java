@@ -88,8 +88,10 @@ public class MixinClassWriter extends AbstractClassWriter {
 	}
 
 	private void processSuperclass(DelegatesData delegatesData) {
-		ClassData superData = new DataExtractor(superClass).extractData();
-		delegatesData.add(superData);
+		if (superClass != null) {
+			ClassData superData = new DataExtractor(superClass).extractData();
+			delegatesData.add(superData);
+		}
 	}
 
 	private void removeConstructors(DelegatesData delegatesData) {

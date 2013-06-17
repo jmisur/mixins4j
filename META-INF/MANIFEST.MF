@@ -4,3 +4,4 @@ Bundle-Name: mixins4j
 Bundle-SymbolicName: mixins4j;singleton:=true
 Bundle-Version: 1.0.0
 Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Require-Bundle: org.scala-ide.scala.library

@@ -58,8 +58,9 @@ public class MixinProcessor extends AbstractProcessor {
 			if (!checkKind(element))
 				continue;
 
-			// init parameters from annotation
+			// init parameters from annotation 
 			processAnnotationParameters(element, options);
+			//new ScalaProcessor().processAnnotationParameters(element, options, processingEnv);
 
 			// check if superclass correctly specified
 			TypeElement superclass = getSuperClass((TypeElement) element);
